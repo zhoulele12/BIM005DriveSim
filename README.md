@@ -8,7 +8,9 @@ The self-made processor is the central control unit and does most of the data pr
 
 ![overview](util/project-overview.png)
 
-![steering wheel](util/wheel.png)
+<p align="center">
+  <img src="util/wheel.png" />
+</p>
 
 <div align="center"><i>Steering wheel</i></div>
 <br>
