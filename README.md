@@ -10,7 +10,7 @@ The self-made processor is the central control unit and does most of the data pr
 
 <p align="center">
   <img src="util/wheel.png" />
-  Steering wheel
+  <p>Steering wheel</p>
 </p>
 
 
