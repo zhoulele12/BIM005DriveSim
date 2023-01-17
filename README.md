@@ -9,17 +9,16 @@ The self-made processor is the central control unit and does most of the data pr
 ![overview](util/project-overview.png)
 
 <p align="center">
-  <img src="util/wheel.png" />
-</p>
-
-<p align="center">Steering wheel</p>
-
-<p align="center">
   <img src="util/pipeline.jpg" />
 </p>
 
 <p align="center">Simplified demonstration of 5-stage processor. Multplication/division and bypass/stall logic not shown. Source: Duke ECE350 lecture slides</p>
 
+<p align="center">
+  <img src="util/wheel.png" />
+</p>
+
+<p align="center">Steering wheel</p>
 
 <p align="center">
   <img src="util/pedals.png" />
