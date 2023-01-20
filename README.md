@@ -2,6 +2,8 @@
 
 This repo contains code for an FPGA-based driving simulator powered by a 5-stage MIPS-like processor.
 
+See detailed descriptions [here](https://zhouchengyang.com/2023/01/16/BIM005-DriveSim/).
+
 The driving simulator features a steering wheel, a gas and brake pedal, and a bluetooth controlled car.
 
 The self-made processor is the central control unit and does most of the data processing. Arduino is used in sensor interfacing and bluetooth data transmission.
@@ -32,4 +34,3 @@ The self-made processor is the central control unit and does most of the data pr
 
 <p align="center">Car</p>
 
-See detailed descriptions [here]().
